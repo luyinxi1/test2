@@ -5,6 +5,9 @@ import edu.princeton.cs.algs4.StdRandom;
 
 import java.util.Arrays;
 
+/**
+ * @author YCH
+ */
 public class DoubleEqual {
     public static void main(String[] args) {
         final int MAX = 1000;
